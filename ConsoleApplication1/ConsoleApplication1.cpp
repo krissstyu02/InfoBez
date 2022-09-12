@@ -2,7 +2,7 @@
 #include<fstream>
 #include<string>
 using namespace std;
-
+ //ЛР 1
 int main()
 {
     string s;

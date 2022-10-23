@@ -1,0 +1,8 @@
+6
+5
+_ _ W _ _ 
+RW RW _ RW _ 
+_ W _ RW _ 
+_ W RW _ RW 
+_ _ W R _ 
+_ _ R _ _ 

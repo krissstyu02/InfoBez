@@ -13,6 +13,7 @@ using namespace std;
 
 
 bool CheckSystem(vector<vector<bool>> a, vector<int> ls, vector<int> lo) //bella-lapadula
+
 {
 	// w = true r = false
 	for (int i = 0; i < ls.size(); i++)

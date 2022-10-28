@@ -5,7 +5,11 @@
 #include <string>
 using namespace std;
 
-string obr(string s) {
+
+
+string obr(string s) 
+{
+
     bool k = 1;
     string rez = "";
     for (int i = 0; i < s.size(); i++) {

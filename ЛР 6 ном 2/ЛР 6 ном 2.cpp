@@ -9,8 +9,6 @@ using namespace std;
 void CreateCS(vector<vector<bool>>& a, vector<int>& ls, vector<int>& lo)//передаю вектор матрицы и вектора массивов
 {
 
-
-
 	int i, j;
 	for (i = 0; i < ls.size(); i++)
 	{

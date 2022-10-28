@@ -1,5 +1,0 @@
-3
-7
-R RW _ W W _ R 
-_ RW _ _ _ RW R 
-_ _ W RW _ W RW 

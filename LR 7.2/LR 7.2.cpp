@@ -10,6 +10,8 @@ using namespace std;
 
 void task_1(vector < vector <string> > RW_FROM_FILE_RZLT) // список объектов, не доступных для всех субъектов
 {
+
+
 	vector <int> answer = vector <int>();
 	for (int j = 0; j < RW_FROM_FILE_RZLT[0].size(); j++) //столбцы
 	{

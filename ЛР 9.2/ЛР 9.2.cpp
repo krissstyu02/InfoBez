@@ -122,6 +122,8 @@ bool possibleAccess(vector<vector<string>>& matr, string a, int x, int y) {
 
 int main()
 {
+
+
 	setlocale(LC_ALL, "RUS");
 	srand(time(0));
 
